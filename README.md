@@ -61,7 +61,7 @@ A lightweight React.js tool to upload `.txt` files, search/filter lines, remove 
 ## 📹 Demo
 
 **Live Demo:** [https://your-netlify-link.netlify.app](https://your-netlify-link.netlify.app)
-**Video Walkthrough:** \[Attach Loom or YouTube link here]
+**Video Walkthrough:** [\[Attach Loom or YouTube link here](https://www.loom.com/share/b9d2f1a28d5a462e87c2f1072130e760?sid=8d2f33f3-ed52-442b-b9a5-97f64c84412f)]
 
 ---
 
