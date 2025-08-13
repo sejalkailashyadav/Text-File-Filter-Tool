@@ -1,4 +1,4 @@
-# React.js TXT File Upload & Filter Tool
+#  TXT File Upload & Filter Tool
 
 A lightweight React.js tool to upload `.txt` files, search/filter lines, remove duplicates, and copy results — optimized to handle **large files (200k+ lines)** without freezing using chunked reading.
 
