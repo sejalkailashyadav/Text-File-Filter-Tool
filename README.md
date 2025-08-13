@@ -4,7 +4,7 @@ A lightweight React.js tool to upload `.txt` files, search/filter lines, remove 
 
 ---
 
-## 🚀 Features
+##  Features
 
 * **Upload `.txt` file** (client-side only — no backend).
 * **Search by domain** (e.g., `example.com`).
