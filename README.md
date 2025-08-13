@@ -60,7 +60,7 @@ A lightweight React.js tool to upload `.txt` files, search/filter lines, remove 
 
 ## 📹 Demo
 
-**Live Demo:** [[Demo](https://text-file-filter-tool-icg085h6x-sejals-projects-05f556f6.vercel.app/))
+**Live Demo:** [[Demo](https://text-file-filter-tool.vercel.app/))
 ---
 
 ## 📂 Project Structure
