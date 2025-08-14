@@ -79,7 +79,7 @@ src/
 
 ---
 
-## 📝 Notes
+##  Notes
 
 * Designed for **client-side only** — no server required.
 * Tested with files up to **200k+ lines** without freezing.
