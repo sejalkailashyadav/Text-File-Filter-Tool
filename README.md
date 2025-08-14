@@ -18,7 +18,7 @@ A lightweight React.js tool to upload `.txt` files, search/filter lines, remove 
 
 ---
 
-## 🛠 Tech Stack
+##  Tech Stack
 
 * **React.js** (Functional Components + Hooks)
 * **HTML5 FileReader API**
@@ -26,7 +26,7 @@ A lightweight React.js tool to upload `.txt` files, search/filter lines, remove 
 
 ---
 
-## 📦 Installation
+##  Installation
 
 1. Clone this repository:
 
@@ -47,7 +47,7 @@ A lightweight React.js tool to upload `.txt` files, search/filter lines, remove 
 
 ---
 
-## 📄 Usage
+##  Usage
 
 1. Click **Upload .txt File** and select your text file.
 2. Enter a **domain** in the search box (optional).
